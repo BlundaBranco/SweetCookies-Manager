@@ -93,6 +93,7 @@ Para facilitar la revisión del proyecto, el script de inicialización genera un
 
 ## 📂 Estructura del Proyecto
 
+```
 sweetcookies-manager/
 ├── database/          # Lógica de persistencia (SQLite)
 ├── static/            # Assets estáticos
